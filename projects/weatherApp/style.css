@@ -1,0 +1,13 @@
+#weather-container {
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+}
+
+#weather-result {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
